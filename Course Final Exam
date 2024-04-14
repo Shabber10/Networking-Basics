@@ -1,166 +1,166 @@
-1.What is a disadvantage of deploying a peer-to-peer network model?
-A.lack of centralized administration
+```1.```What is a disadvantage of deploying a peer-to-peer network model?
+A.```lack of centralized administration```
 
-2.Refer to the exhibit. Which term correctly identifies the device type that is included in the area B?
-A.intermediary
+```2.```Refer to the exhibit. Which term correctly identifies the device type that is included in the area B?
+A.```intermediary```
 
-3.Which wireless RF band do IEEE 802.11b/g devices use?
-A.2.4 GHz
+```3.```Which wireless RF band do IEEE 802.11b/g devices use?
+A.```2.4 GHz```
 
-4.A tourist is traveling through the countryside and needs to connect to the internet from a laptop. However, the laptop only has Wi-Fi and Ethernet connections. The tourist has a smartphone with 3G/4G connectivity. What can the tourist do to allow the laptop to connect to the internet?
-A.Enable tethering and create a hotspot.
+```4.```A tourist is traveling through the countryside and needs to connect to the internet from a laptop. However, the laptop only has Wi-Fi and Ethernet connections. The tourist has a smartphone with 3G/4G connectivity. What can the tourist do to allow the laptop to connect to the internet?
+A.```Enable tethering and create a hotspot.```
 
-5.What are two methods typically used on a mobile device to provide internet connectivity? (Choose two.)
-A.cellular
-A.Wi-Fi
+```5.```What are two methods typically used on a mobile device to provide internet connectivity? (Choose two.)
+A.```cellular```
+A.```Wi-Fi```
 
-6.Which statement describes the use of powerline networking technology?
-A.A device connects to an existing home LAN using an adapter and an existing electrical outlet.
+```6.```Which statement describes the use of powerline networking technology?
+A.```A device connects to an existing home LAN using an adapter and an existing electrical outlet.```
 
-7.A user is configuring a wireless access point and wants to prevent any neighbors from discovering the network. What action does the user need to take?
-A.Disable SSID broadcast.
+```7.```A user is configuring a wireless access point and wants to prevent any neighbors from discovering the network. What action does the user need to take?
+A.```Disable SSID broadcast.```
 
-8.Which wireless technology allows a customer to connect to a payment terminal in the store with a smartphone?
-A.NFC
+```8.```Which wireless technology allows a customer to connect to a payment terminal in the store with a smartphone?
+A.```NFC```
 
-9.A traveling sales representative uses a cell phone to interact with the home office and customers, track samples, make sales calls, log mileage, and upload/download data while at a hotel. Which internet connectivity method would be a preferred method to use on the mobile device due to the low cost?
-A.Wi-Fi
+```9.```A traveling sales representative uses a cell phone to interact with the home office and customers, track samples, make sales calls, log mileage, and upload/download data while at a hotel. Which internet connectivity method would be a preferred method to use on the mobile device due to the low cost?
+A.```Wi-Fi```
 
-10.A company is contemplating whether to use a client/server or a peer-to-peer network. What are three characteristics of a peer-to-peer network? (Choose three.)
-A.lacks centralized administration
-A.less cost to implement
-A.easy to create
+```10.```A company is contemplating whether to use a client/server or a peer-to-peer network. What are three characteristics of a peer-to-peer network? (Choose three.)
+A.```lacks centralized administration```
+A.```less cost to implement```
+A.```easy to create```
 
-11.At which layer of the OSI model would a logical address be added during encapsulation? 
-A.network layer
+```11.```At which layer of the OSI model would a logical address be added during encapsulation? 
+A.```network layer```
 
-12.Which two criteria are used to help select a network medium for a network? (Choose two.)
-A.the distance the selected medium can successfully carry a signal
-A.the environment where the selected medium is to be installed
+```12.```Which two criteria are used to help select a network medium for a network? (Choose two.)
+A.```the distance the selected medium can successfully carry a signal```
+A.```the environment where the selected medium is to be installed```
 
-13.A cable installation company is trying to convince a customer to use fiber-optic cabling instead of copper cables for a particular job. What is one advantage of using fiber-optic cabling compared to copper cabling?
-A.Fiber-optic cabling is completely immune to EMI and RFI.
+```13.```A cable installation company is trying to convince a customer to use fiber-optic cabling instead of copper cables for a particular job. What is one advantage of using fiber-optic cabling compared to copper cabling?
+A.```Fiber-optic cabling is completely immune to EMI and RFI.```
 
-14.What will a Cisco LAN switch do if it receives an incoming frame and the destination MAC address is not listed in the MAC address table?
-A.Forward the frame out all ports except the port where the frame is received.
+```14.```What will a Cisco LAN switch do if it receives an incoming frame and the destination MAC address is not listed in the MAC address table?
+A.```Forward the frame out all ports except the port where the frame is received.```
 
-15.What information does an Ethernet switch examine and use to build its address table?
-A.source MAC address
+```15.```What information does an Ethernet switch examine and use to build its address table?
+A.```source MAC address```
 
-16.Which two OSI model layers have the same functionality as two layers of the TCP/IP model?  (Choose two.)
-A.Network
-A.Transport
+```16.```Which two OSI model layers have the same functionality as two layers of the TCP/IP model?  (Choose two.)
+A.```Network```
+A.```Transport```
 
-17.What data encoding technology is used in copper cables?
-A.electrical pulses
+```17.```What data encoding technology is used in copper cables?
+A.```electrical pulses```
 
-18.Which type of network model describes the functions that must be completed at a particular layer, but does not specify exactly how each protocol should work?
-A.reference model
+```18.```Which type of network model describes the functions that must be completed at a particular layer, but does not specify exactly how each protocol should work?
+A.```reference model```
 
-19.What layer is responsible for routing messages through an internetwork in the TCP/IP model?
-A.internet
+```19.```What layer is responsible for routing messages through an internetwork in the TCP/IP model?
+A.```internet```
 
-20.What process involves placing one message format inside of another message format?
-A.encapsulation
+```20.```What process involves placing one message format inside of another message format?
+A.```encapsulation```
 
-21.Refer to the exhibit.  How many bits are represented by each group of four hexadecimal values contained between the colons in an IPv6 address?
-A.16
+```21.```Refer to the exhibit.  How many bits are represented by each group of four hexadecimal values contained between the colons in an IPv6 address?
+A.```16```
 
-22.What benefit does DHCP provide to a network?
-A.Hosts can connect to the network and get an IP address without manual configuration.
+```22.```What benefit does DHCP provide to a network?
+A.```Hosts can connect to the network and get an IP address without manual configuration.```
 
-23.Refer to the exhibit.  A technician is attempting to configure the IPv6 address 2001:db8::1111::0200 on a device.  Why does the device return an error message that indicates the address is not valid?
-A.The IPv6 address notation is incorrect.
+```23.```Refer to the exhibit.  A technician is attempting to configure the IPv6 address 2001:db8::1111::0200 on a device.  Why does the device return an error message that indicates the address is not valid?
+A.```The IPv6 address notation is incorrect.```
 
-24.How many bits are in an IPv4 address?
-A.32
+```24.```How many bits are in an IPv4 address?
+A.```32```
 
-25.A college has five campuses. Each campus has IP phones installed. Each campus has an assigned IP address range. For example, one campus has IP addresses that start with 10.1.x.x. On another campus the address range is 10.2.x.x. The college has standardized that IP phones are assigned IP addresses that have the number 4X in the third octet. For example, at one campus the address ranges used with phones include 10.1.40.x, 10.1.41.x, 10.1.42.x, etc. Which two groupings were used to create this IP addressing scheme? (Choose two.)
-A.geographic location
-A.device type
+```25.```A college has five campuses. Each campus has IP phones installed. Each campus has an assigned IP address range. For example, one campus has IP addresses that start with 10.1.x.x. On another campus the address range is 10.2.x.x. The college has standardized that IP phones are assigned IP addresses that have the number 4X in the third octet. For example, at one campus the address ranges used with phones include 10.1.40.x, 10.1.41.x, 10.1.42.x, etc. Which two groupings were used to create this IP addressing scheme? (Choose two.)
+A.```geographic location```
+A.```device type```
 
-26.What is the shortest valid representation of the IPv6 address 2001:0DB8:0000:1470:0000:0000:0000:0200?
-A.2001:DB8:0:1470::200
+```26.```What is the shortest valid representation of the IPv6 address 2001:0DB8:0000:1470:0000:0000:0000:0200?
+A.```2001:DB8:0:1470::200```
 
-27.When a host sends a packet, how does it determine if the destination of the packet is on the same local network or on a remote network?
-A.It uses the subnet mask to compare the source and destination IP address.
+```27.```When a host sends a packet, how does it determine if the destination of the packet is on the same local network or on a remote network?
+A.```It uses the subnet mask to compare the source and destination IP address.```
 
-28.Which number grouping is a valid IPv6 address?
-A.2001:0db8:3c55:0015:1010:0000:abcd:ff13
+```28.```Which number grouping is a valid IPv6 address?
+A.```2001:0db8:3c55:0015:1010:0000:abcd:ff13```
 
-29.Which three types of nodes should be assigned static IP addresses on a network?  (Choose three.)
-A.printers
-A.gateways
-A.servers
+```29.```Which three types of nodes should be assigned static IP addresses on a network?  (Choose three.)
+A.```printers```
+A.```gateways```
+A.```servers```
 
-30.For what purpose are IPv4 addresses utilized?
-A.An IPv4 address is used to uniquely identify a device on an IP network.
+```30.```For what purpose are IPv4 addresses utilized?
+A.```An IPv4 address is used to uniquely identify a device on an IP network.```
 
-31.A small accounting office is setting up a wireless network to connect end devices and to provide internet access. In which two scenarios does a wireless router perform Network Address Translation (NAT)?
+```31.```A small accounting office is setting up a wireless network to connect end devices and to provide internet access. In which two scenarios does a wireless router perform Network Address Translation (NAT)?
 (Choose two.)
-A.when a host is sending packets to the ISP in order to request a speed increase for Internet services
-A.when a host is sending packets to a remote site owned by the manufacturer of the wireless router in order to request a digital copy of the device manual
+A.```when a host is sending packets to the ISP in order to request a speed increase for Internet services```
+A.```when a host is sending packets to a remote site owned by the manufacturer of the wireless router in order to request a digital copy of the device manual```
 
-32.A user is setting up a home wireless network. A global address is to be used in NAT translations for traffic flowing through the wireless router. How is this global address assigned?
-A.-------------------
-33.Refer to the exhibit.  Host H2 sends a unicast message to host H6.  Which destination IP address is contained in the header of the packet when it reaches host H6?
-A.the IP address assigned to the network adapter on host H6
+```32.```A user is setting up a home wireless network. A global address is to be used in NAT translations for traffic flowing through the wireless router. How is this global address assigned?
+A.```The wireless router will act as a DHCP client in order to receive global addressing from the ISP.```
+```33.```Refer to the exhibit.  Host H2 sends a unicast message to host H6.  Which destination IP address is contained in the header of the packet when it reaches host H6?
+A.```the IP address assigned to the network adapter on host H6```
 
-34.Open the PT activity. Perform the tasks in the activity instructions and then answer the question.
+```34.```Open the PT activity. Perform the tasks in the activity instructions and then answer the question.
 Which IP address should be used as the default gateway address on PC0?
-A.192.168.2.10
+A.```192.168.2.10```
 
-35.Refer to the exhibit. PC1 attempts to connect to File_server1 and sends an ARP request to obtain a destination MAC address. Which MAC address will PC1 receive in the ARP reply?
-A.the MAC address of the G0/0 interface on R1
+```35.```Refer to the exhibit. PC1 attempts to connect to File_server1 and sends an ARP request to obtain a destination MAC address. Which MAC address will PC1 receive in the ARP reply?
+A.```the MAC address of the G0/0 interface on R1```
 
-36.Refer to the exhibit. PC1 issues an ARP request because it needs to send a packet to PC3. In this scenario, what will happen next?
-A.RT1 will send an ARP reply with its own Fa0/0 MAC address.
+```36.```Refer to the exhibit. PC1 issues an ARP request because it needs to send a packet to PC3. In this scenario, what will happen next?
+A.```RT1 will send an ARP reply with its own Fa0/0 MAC address.```
 
-37.Refer to the exhibit. A switch with a default configuration connects four hosts. The ARP table for host A is shown. What happens when host A wants to send an IP packet to host D?
-A.Host A sends out a broadcast of FF:FF:FF:FF:FF:FF. Every other host connected to the switch receives the broadcast and host D responds with its MAC address.
+```37.```Refer to the exhibit. A switch with a default configuration connects four hosts. The ARP table for host A is shown. What happens when host A wants to send an IP packet to host D?
+A.```Host A sends out a broadcast of FF:FF:FF:FF:FF:FF. Every other host connected to the switch receives the broadcast and host D responds with its MAC address.```
 
-38.Refer to the exhibit. Host A sends a data packet to host B. What will be the addressing information of the data packet when it reaches host B?
-A.af:3c:dc4c:55:66    a0:4c:5f:21:33:77     172.16.1.10     172.16.2.10
+```38.```Refer to the exhibit. Host A sends a data packet to host B. What will be the addressing information of the data packet when it reaches host B?
+A.```af:3c:dc4c:55:66    a0:4c:5f:21:33:77     172.16.1.10     172.16.2.10```
 
-39.What type of route is indicated by the code C in an IPv4 routing table on a Cisco router?
-A.directly connected route
+```39.```What type of route is indicated by the code C in an IPv4 routing table on a Cisco router?
+A.```directly connected route```
 
-40.Refer to the exhibit. The IP address of which device interface should be used as the default gateway setting of host H1?
-A.R1: G0/0
+```40.```Refer to the exhibit. The IP address of which device interface should be used as the default gateway setting of host H1?
+A.```R1: G0/0```
 
-41.Two pings were issued from a host on a local network. The first ping was issued to the IP address of the default gateway of the host and it failed. The second ping was issued to the IP address of a host outside the local network and it was successful. What is a possible cause for the failed ping?
-A.Security rules are applied to the default gateway device, preventing it from processing ping requests.
+```41.```Two pings were issued from a host on a local network. The first ping was issued to the IP address of the default gateway of the host and it failed. The second ping was issued to the IP address of a host outside the local network and it was successful. What is a possible cause for the failed ping?
+A.```Security rules are applied to the default gateway device, preventing it from processing ping requests.```
 
-42.Open the PT activity. Perform the tasks in the activity instructions and then answer the question.
+```42.```Open the PT activity. Perform the tasks in the activity instructions and then answer the question.
 What is the code displayed on the web page?
-A.Welldone
+A.```Welldone```
 
-43.When analog voice signals are converted for use on a computer network, in what format are they encapsulated?
-A.IP packets
+```43.```When analog voice signals are converted for use on a computer network, in what format are they encapsulated?
+A.```IP packets```
 
-44.Refer to the exhibit. PC1 needs to resolve the host name of the web server into an IP address by using DNS. What destination IP address and destination port number will PC1 assign to the DNS query packet?​
-A.192.168.20.3 port 53
+```44.```Refer to the exhibit. PC1 needs to resolve the host name of the web server into an IP address by using DNS. What destination IP address and destination port number will PC1 assign to the DNS query packet?​
+A.```192.168.20.3 port 53```
 
-45.Which command would a technician use to display network connections on a host computer?
-A.netstat
+```45.```Which command would a technician use to display network connections on a host computer?
+A.```netstat```
 
-46.Refer to the exhibit. An administrator is trying to troubleshoot connectivity between PC1 and PC2 and uses the tracert command from PC1 to do it. Based on the displayed output, where should the administrator begin troubleshooting?
-A.R1
+```46.```Refer to the exhibit. An administrator is trying to troubleshoot connectivity between PC1 and PC2 and uses the tracert command from PC1 to do it. Based on the displayed output, where should the administrator begin troubleshooting?
+A.```R1```
 
-47.A network technician attempts to ping www.example.net from a customer computer, but the ping fails. Access to mapped network drives and a shared printer are working correctly. What are two potential causes for this problem? (Choose two.)
-A.The target web server is down.
-A.DNS service is unavailable on the customer network.
+```47.```A network technician attempts to ping www.example.net from a customer computer, but the ping fails. Access to mapped network drives and a shared printer are working correctly. What are two potential causes for this problem? (Choose two.)
+A.```The target web server is down.```
+A.```DNS service is unavailable on the customer network.```
 
 48.
-A user requests a website by typing in its name.---->Domain Name System
-A service that allows workers to send messages to each other over the Internet.---->email
-A user uploads new files to his or her website.---->file transfer
-A workstation gets its IP address automatically.---->Dynamic Host Configuration
-A user types in a URL and a page loads in the client browser.---->web service
-A network technician accesses a network device securely from a remote site.---->SSH
+```A user requests a website by typing in its name.```------>```Domain Name System```
+```A service that allows workers to send messages to each other over the Internet.```------>```email```
+```A user uploads new files to his or her website.```------>```file transfer```
+```A workstation gets its IP address automatically.```------>```Dynamic Host Configuration```
+```A user types in a URL and a page loads in the client browser.```------>```web service```
+```A network technician accesses a network device securely from a remote site.```------>```SSH```
 
-49.How are port numbers used in the TCP/IP encapsulation process?
-A.If multiple conversations occur that are using the same service, the source port number is used to track the separate conversations.
+```49.```How are port numbers used in the TCP/IP encapsulation process?
+A.```If multiple conversations occur that are using the same service, the source port number is used to track the separate conversations.```
 
-50.A technician is troubleshooting a network connectivity problem. Pings to the local wireless router are successful but pings to a server on the Internet are unsuccessful. Which CLI command could assist the technician to find the location of the networking problem?
-A.tracert
+```50.```A technician is troubleshooting a network connectivity problem. Pings to the local wireless router are successful but pings to a server on the Internet are unsuccessful. Which CLI command could assist the technician to find the location of the networking problem?
+A.```tracert```
